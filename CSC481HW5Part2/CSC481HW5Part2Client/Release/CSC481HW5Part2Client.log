@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\sarah\CSC 481\Projects\CSC481HW5Part2\CSC481HW5Part2Server\lib\dukglue-master\include\dukglue\detail_primitive_types.h(41,1): warning C4244: 'argument': conversion from 'uint64_t' to 'duk_double_t', possible loss of data
+C:\Users\sarah\CSC 481\Projects\CSC481HW5Part2\CSC481HW5Part2Server\lib\dukglue-master\include\dukglue\detail_primitive_types.h(41,1): message : This diagnostic occurred in the compiler generated function 'void dukglue::types::DukType<uint64_t>::push(duk_context *,uint64_t)'
+C:\Users\sarah\CSC 481\Projects\CSC481HW5Part2\CSC481HW5Part2Server\lib\dukglue-master\include\dukglue\detail_primitive_types.h(46,1): warning C4244: 'argument': conversion from 'int64_t' to 'duk_double_t', possible loss of data
+C:\Users\sarah\CSC 481\Projects\CSC481HW5Part2\CSC481HW5Part2Server\lib\dukglue-master\include\dukglue\detail_primitive_types.h(46,1): message : This diagnostic occurred in the compiler generated function 'void dukglue::types::DukType<int64_t>::push(duk_context *,int64_t)'
+C:\Users\sarah\CSC 481\Projects\CSC481HW5Part2\CSC481HW5Part2Client\main.cpp(389,7): warning C4101: 'directionKeyPressSent': unreferenced local variable
+  Generating code
+  1 of 2349 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    26 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  CSC481HW5Part2Client.vcxproj -> C:\Users\sarah\CSC 481\Projects\CSC481HW5Part2\Release\CSC481HW5Part2Client.exe
